@@ -1,0 +1,7 @@
+
+class CoffeeMaker() {
+
+    fun brew() {
+    }
+
+}
