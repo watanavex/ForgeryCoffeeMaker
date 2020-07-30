@@ -5,6 +5,7 @@ class Heater {
 
     fun on() {
         this.isHot = true
+        print("🔥 heating 🔥")
     }
 
     fun off() {
